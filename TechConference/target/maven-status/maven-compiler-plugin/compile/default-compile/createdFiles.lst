@@ -1,0 +1,11 @@
+com\conference\model\Attendes.class
+com\conference\controller\ConferenceController.class
+com\conference\repository\TalkRepository.class
+com\conference\Application.class
+com\conference\model\ConferenceDetails.class
+com\conference\repository\AttendeRepository.class
+com\conference\service\ConferenceServiceImpl.class
+com\conference\model\Talk.class
+com\conference\repository\ConferenceDetailsRepository.class
+com\conference\model\Speaker.class
+com\conference\service\ConferenceService.class
